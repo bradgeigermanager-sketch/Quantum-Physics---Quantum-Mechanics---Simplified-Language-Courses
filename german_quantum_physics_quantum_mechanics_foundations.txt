@@ -1,0 +1,29 @@
+Schnellkurs in Quantenmechanik und Quantenphysik (einfach erklärt)
+
+Diese Erklärung verzichtet auf komplizierte Formeln und erklärt die Kernideen der Quantenphysik verständlich:
+
+Was ist die Quantenwelt?‌
+Sie beschreibt das Verhalten winziger Teilchen wie Elektronen und Photonen. Ihre Regeln unterscheiden sich stark von der Physik, die wir im Alltag erleben – hier gibt es keine festen, vorbestimmten Zustände wie in unserer sichtbaren Welt.
+
+Energie kommt in kleinen Paketen‌
+Vor 1900 glaubten Forscher, Energie sei unendlich teilbar. Max Planck entdeckte: Energie existiert nur in abgetrennten, winzigen Einheiten – den sogenannten Quanten. Das war der offizielle Startpunkt der Quantenphysik.
+
+Teilchen sind gleichzeitig Wellen‌
+Licht und Elektronen verhalten sich nicht nur wie Teilchen, sondern auch wie Wellen. Je nach Experiment treten sie mal als Kugel, mal als Welle auf. Diese sogenannte Welle-Teilchen-Dualität ist die Grundlage fast aller quantenphysikalischen Effekte.
+
+Heisenbergs Unschärferelation‌
+Man kann Ort und Geschwindigkeit eines Quantenteilchens niemals gleichzeitig exakt messen. Je genauer du den Ort bestimmst, desto ungenauer wird die Geschwindigkeit – und umgekehrt. Das ist kein Fehler von Messgeräten, sondern eine natürliche Eigenschaft der Quantenwelt.
+
+Die Wellenfunktion beschreibt Wahrscheinlichkeiten‌
+Mit einer mathematischen Funktion, der Wellenfunktion, beschreiben wir den Zustand eines Quantenteilchens. Sie sagt uns nicht, wo das Teilchen genau ist – sondern nur, mit welcher Wahrscheinlichkeit wir es an einer bestimmten Stelle finden.
+
+Quantenverschränkung: Die geheimnisvolle Verbindung‌
+Wenn zwei Quantenteilchen miteinander wechselwirken, können sie sich so verbinden, dass ihre Zustände voneinander abhängen – selbst wenn sie Lichtjahre voneinander entfernt sind. Ändert man den Zustand des einen, ändert sich der des anderen sofort. Einstein nannte das „spukhafte Fernwirkung“.
+
+Anwendungen, die wir täglich nutzen‌
+Ohne Quantenphysik gäbe es keine Smartphones, Computer oder Laser. Transistoren, die alle elektronischen Geräte antreiben, funktionieren nur dank quantenphysikalischer Eigenschaften von Elektronen. Auch medizinische Bildgebung und Digitalkameras basieren auf diesen Regeln.
+
+Die genaueste Theorie der Physikgeschichte‌
+Quantenmechanik ist die am besten getestete Theorie der Physik. Ihre Vorhersagen stimmen mit Experimenten bis auf 12 Nachkommastellen überein – und sie ist die Grundlage fast aller modernen Hochtechnologien.
+
+Möchtest du zu einem dieser Punkte eine noch einfachere, anschaulichere Erklärung mit Alltagsbeispielen bekommen?
